@@ -5,7 +5,7 @@ import torch
 from torch_geometric.data import Data
 
 from src.code.model.GCNConv import GCNConv
-
+# 第二次提交
 if __name__ == '__main__':
     # edge_index = torch.tensor([[1, 2, 3],
     #                            [0, 0, 0]],
